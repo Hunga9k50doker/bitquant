@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.98.2",
+    "async-lock": "^1.4.1",
+    "axios": "^1.8.1",
+    "bs58": "^6.0.0",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "https-proxy-agent": "^7.0.6",
+    "jwt-decode": "^4.0.0",
+    "socks-proxy-agent": "^8.0.5",
+    "tweetnacl": "^1.0.3",
+    "uuid": "^11.1.0"
+  }
+}
